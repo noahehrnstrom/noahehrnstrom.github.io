@@ -1,4 +1,4 @@
-# noahehrnstrom.github.io
+# Noah Ehrnstrom
 
 Welcome to my website!
 
